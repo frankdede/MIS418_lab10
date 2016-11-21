@@ -1,0 +1,9 @@
+﻿body {
+    background-image: url('images/bravo.jpg');
+    background-repeat: repeat;
+     /*properties of Text*/
+    color: blue;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+
+}
